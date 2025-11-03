@@ -1,1 +1,15 @@
 # Kelletia_SR25457766
+- Project: Kelletia kelletii AMP mining
+- Run accession: SRR25457766
+- Experiment: SRX21190622
+- BioProject: PRJNA1000198
+- BioSample: SAMN36762568
+- Organism: Kelletia kelletii
+- Tissue/stage: embryo (library T1E17)
+- Strategy: RNA-Seq; Platform: Illumina NovaSeq 6000; Layout: paired-end
+- Spot count / read bases / download size: 19,580,439; 5.9G; ~1.8 GB
+- Library prep: poly-T selection; non-directional
+- Source: transcriptomic RNA
+- Date accessed: 2025-11-03
+- NCBI SRA URL: https://www.ncbi.nlm.nih.gov/sra/SRR25457766
+- Next actions: (1) download small subset or full FASTQ via SRA Toolkit or Galaxy; (2) run FastQC; (3) trim adapters; (4) run FastQC again
