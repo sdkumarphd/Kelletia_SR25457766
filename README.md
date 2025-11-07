@@ -13,3 +13,4 @@
 - Date accessed: 2025-11-03
 - NCBI SRA URL: https://www.ncbi.nlm.nih.gov/sra/SRR25457766
 - Next actions: (1) download small subset or full FASTQ via SRA Toolkit or Galaxy; (2) run FastQC; (3) trim adapters; (4) run FastQC again
+- Fast QC reports: Date: 2025/11/04; file name: FastQC_on_dataset_16__Webpage_html - forward; File name: FastQC_on_dataset_17__Webpage_html - reverse
